@@ -1,0 +1,64 @@
+body {
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.container{
+	width: 80%;
+}
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+
+.box{
+	border: 1px solid red;
+}
+
+.desc {
+    position: absolute;
+    color: #fff;
+    bottom: 52px;//52
+    left: 15px;//18
+    font-size:20px;
+}
+
+.page-top{
+	margin-top: -70px;
+}
+
+.home-headline{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 24px;
+	color: #fff;
+	margin:auto;
+	text-align:center;
+	margin-top:-13px;
+}
+
+.home-headline span{
+	background-color:#231F20;
+	padding: 5px 22px;
+}
+
+.section-headline{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 22px;
+	color: #fff;
+	margin:auto;
+	text-align:center;
+	margin-top:65px;
+}
+
+.section-headline span{
+	background-color:#231F20;
+	padding: 5px 22px;
+}
